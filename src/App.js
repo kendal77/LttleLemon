@@ -6,18 +6,10 @@ function App() {
     </div>
   );
 }
-<header>
+<Header/>
+<Nav/>
+<Main/>
+<Footer/>
 
-</header>
-
-<nav>
-
-</nav>
-<main>
-
-</main>
-<footer>
-  
-</footer>
 
 export default App;
